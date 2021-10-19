@@ -1,9 +1,9 @@
-# Series Managemant
+# Statistic
  
- Baue eine Verwaltung für Serien.
+ Baue ein beliebiges Statistik Projekt welches du mit Daten befüllst die du dir aus dem Internet ziehst.
  
 ## Features
- Merkt sich, welche Serien bereits gesehen wurden und welche die letzte war. Und bietet ein Link um schnell wieder dahinzukommen.
+
  
  ## Schwierigkeit
  Mittel

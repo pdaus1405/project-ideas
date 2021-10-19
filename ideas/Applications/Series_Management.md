@@ -1,9 +1,9 @@
-# Socialmedia Gaming Portal
+# Series Management
  
- Baue ein beliebiges Statistik Projekt welches du mit Daten befüllst die du dir aus dem Internet ziehst.
+ Baue eine Verwaltung für Serien.
  
 ## Features
-
+ Merkt sich, welche Serien bereits gesehen wurden und welche die letzte war. Und bietet ein Link um schnell wieder dahinzukommen.
  
  ## Schwierigkeit
  Mittel
