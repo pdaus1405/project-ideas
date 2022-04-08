@@ -9,7 +9,7 @@ Gerne könnt ihr selber Ideen per Pull Request einreichen.
 - [Consumption Data Dashboard](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Applications/Consumptiondata_Dashboard.md)
 - [Ideas Finder](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Applications/Ideas_Finder.md)
 - [Instagram Clone](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Applications/Instagram_Clone.md)
-- [Personal Dashboard](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Tools/Personal_Dashboard.md)
+- [Personal Dashboard](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Applications/Personal_Dashboard.md)
 - [Series Management](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Applications/Series_Management.md)
 - [Shell](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Applications/Shell.md)
 - [Social Service](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Applications/Social_Service.md)
