@@ -1,10 +1,10 @@
 # Random Facts
  
-Baue Rendom Facts.
+Baue Random Facts.
  
 ## Features
 Eine API die Random Facts ausgibt. 
-Gegeben sind 3 Schnittstellen : 
+Gegeben sind 3 Schnittstellen: 
 - GET /api/fact/random _(gibt einen random fact aus)_ 
 - GET /api/fact/last _(gibt den neusten fact aus)_ 
 - POST /api/fact/ _(erstellt einen neuen fact)_

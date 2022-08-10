@@ -3,7 +3,7 @@
  Baue ein Crawler Service
  
 ## Features
- Dieser durchsucht angegebene Webseiten nach bestimmten Suchwörtern  und gibt gefundene Daten zurück.
+ Dieser durchsucht angegebene Webseiten nach bestimmten Suchwörtern und gibt gefundene Daten zurück.
  
  ## Schwierigkeit
  Einfach

@@ -3,7 +3,7 @@
 Baue ein presenter Service.
  
 ## Features
- Ein Tool welches sich in eine beliebige Webseiten einklinkt um diese zu verändern in Aussehen, Farbe usw., z.B. um bei einer Präsentation schnell zu zeigen wie es aussehen könnte.
+ Ein Tool welches sich in eine beliebige Webseite einklinkt, um diese zu verändern, in Aussehen, Farbe usw., z.B. um bei einer Präsentation schnell zu zeigen, wie es aussehen könnte.
  
  ## Schwierigkeit
  Mittel

@@ -1,6 +1,6 @@
 # Textadventure
  
- Baue dir ein Textadventure Spiel.
+ Baue dir ein Text adventure Spiel.
  
 ## Features
 

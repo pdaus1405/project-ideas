@@ -1,6 +1,6 @@
 # Statistic
  
- Baue ein beliebiges Statistik Projekt welches du mit Daten befüllst die du dir aus dem Internet ziehst.
+ Baue ein beliebiges Statistik-Projekt welches du mit Daten befüllst die du dir aus dem Internet ziehst.
  
 ## Features
 

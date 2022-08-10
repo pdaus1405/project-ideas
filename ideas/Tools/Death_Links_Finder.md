@@ -3,7 +3,7 @@
  Baue ein Crawler Service
  
 ## Features
- Dieser überprüft alle Links auf einer Webseite auf Gültigtigkeit / Erreichbarkeit.
+ Dieser überprüft alle Links auf einer Webseite auf Gültigkeit / Erreichbarkeit.
  
  ## Schwierigkeit
  Einfach

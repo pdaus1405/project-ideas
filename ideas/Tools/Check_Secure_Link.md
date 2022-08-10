@@ -1,9 +1,9 @@
 # Check Secure Link
  
- Baue einen Crawler der prüft ob alle Resourcen und Links einer Website SSL (https://) nutzen.
+ Baue einen Crawler der prüft, ob alle Ressourcen und Links einer Website SSL (https://) nutzen.
  
 ## Features
- Zeige alle Funde auf, die dem nicht entsprechen und gebe einen Hinweis wenn SSL bei der Resource bzw. Link möglich ist.
+ Zeige alle Funde auf, die dem nicht entsprechen und gebe einen Hinweis, wenn SSL bei der Resource bzw. Link möglich ist.
  
  ## Schwierigkeit
  Einfach

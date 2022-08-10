@@ -6,7 +6,7 @@ Der primäre Fokus bei diesem Spiel liegt auf dem Aufbau einer Farm mit Felderwi
 
 Für das Anlegen und Bewirtschaften der Felder werden Werkzeuge benötigt.
 
-Hier drauf liegt der sekundäre Fokus, das Farmen benötigter Rohstoffe für die Herstellung der Werkzeuge. Wie auch bei den Pflanzen können Rohstoffe und Werkzeuge über den Marktplatz veräußert oder auch bezogen werden.
+Hier drauf liegt der sekundäre Fokus, dass Farmen benötigter Rohstoffe für die Herstellung der Werkzeuge. Wie auch bei den Pflanzen können Rohstoffe und Werkzeuge über den Marktplatz veräußert oder auch bezogen werden.
 
 ## Spielablauf:
 
@@ -14,9 +14,9 @@ Es wird mit einem Gebäude (Schlafhütte), einem Feld und ohne zusätzliche Arbe
 
 Zum Start erhält der Spieler eine geringe Anzahl Materialien um Arbeiter „anzuwerben“? und Schlafhütten bauen zu können.
 
-Erste Samen können in der Umgebung gesucht, gefunden und gesammelt werden um diese für den Anbau auf den eigenen Feldern zu nutzen.
+Erste Samen können in der Umgebung gesucht, gefunden und gesammelt werden, um diese für den Anbau auf den eigenen Feldern zu nutzen.
 
-Des Weiteren kann in der Umgebung Rohstoffe wie Holz, Stein, Metall gesammelt/abgebaut werden um diese für die Herstellung von Werkzeugen zu nutzen.
+Des Weiteren kann in der Umgebung Rohstoffe wie Holz, Stein, Metall gesammelt/abgebaut werden, um diese für die Herstellung von Werkzeugen zu nutzen.
 
 Werkzeuge wirken sich positiv auf Felder aus oder bieten ggf. spezielle Möglichkeiten für die Felderbewirtschaftung.
 
@@ -28,7 +28,7 @@ Diese werden genutzt um Pflanzen anzubauen, zu ernten und über den Marktplatz z
 
 Gebäude können durch Upgrades verbessert werden und durch Forschung neue Gebäude entwickelt.
 
-Für den Betrieb der Farm werden Arbeiter benötigt. Je nach schwere der körperlichen Tätigkeiten erschöpfen diese Arbeiter. Zur Erholung und Kräfte sammeln stehen diesen Arbeitern Schlafhütten zur Verfügung.
+Für den Betrieb der Farm werden Arbeiter benötigt. Je nach Schwere der körperlichen Tätigkeiten erschöpfen diese Arbeiter. Zur Erholung und Kräfte sammeln stehen diesen Arbeitern Schlafhütten zur Verfügung.
 
 Zum Start des Spieles ist der Spieler der einzige Arbeiter und es steht ihm eine Schlafhütte minderer Qualität für die Erholung zur Verfügung.
 
@@ -66,15 +66,15 @@ Er bietet für einige Waren einen Grundbestand an. Dieser wird durch ein noch zu
 
 ## Münzen:
 
-Für das veräußern der Ware erhält man Münzen. Diese können in den Ausbau und betrieb der Farm eingesetzt werden.
+Für das Veräußern der Ware erhält man Münzen. Diese können in den Ausbau und betrieb der Farm eingesetzt werden.
 
 ## Spielziel:
 
-Berechnung der Farm über Gebäudelevel, Plantagenanzahl etc (müsste weiter ausgearbeitet werden) für ein Ranking
+Berechnung der Farm über Gebäudelevel, Plantagen anzahl etc (müsste weiter ausgearbeitet werden) für ein Ranking
 
 ## Entwicklungsziele
 
-Aufbau eines funktionierenden Wirtschaftssystem
+Aufbau einem funktionierenden Wirtschaftssystem
 Spekulationsmöglichkeiten am Marktplatz
 
 ## Technisches:

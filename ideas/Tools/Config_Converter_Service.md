@@ -3,7 +3,7 @@
  Baue einen großen Konfigurationskonverter Dienst
  
 ## Features
- Dieser kann alle Arten von Konfigurationen entgegen nehmen und mit wenigen Einstellungen in andere Konfigurationen umwandeln kann. Zum Beispiel *.ini, *.xml, *.php, array, json etc. pp.
+ Dieser kann alle Arten von Konfigurationen entgegennehmen und mit wenigen Einstellungen in andere Konfigurationen umwandeln kann. Zum Beispiel *.ini, *.xml, *.php, array, json etc. pp.
  
  ## Schwierigkeit
  Mittel

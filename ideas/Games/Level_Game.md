@@ -3,7 +3,7 @@
  Baue ein Spiel welches man schrittweise meistern muss.
  
 ## Features
- Zum Beispiel indem man immer weiter Gegner besiegt und sich weiterentwickelt. Der Schritt daraus besteht, eine Wahl zu treffen was man macht. Konkurrenz dann, wer am weitesten kommt.
+ Zum Beispiel, indem man immer weiter Gegner besiegt und sich weiterentwickelt. Der Schritt daraus besteht, eine Wahl zu treffen, was man macht. Konkurrenz dann, wer am weitesten kommt.
  
  ## Schwierigkeit
  Mittel

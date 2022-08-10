@@ -15,7 +15,7 @@
 ## Zusatz
 - Mehrbenutzer 
 - unterschiedliche Konten/Kontenarten 
-- Gruppierung von unterschiedlichen Bugets
+- Gruppierung von unterschiedlichen Budgets
  
  ## Schwierigkeit
  Mittel

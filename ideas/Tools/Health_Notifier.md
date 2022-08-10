@@ -3,7 +3,7 @@
  Bau einen Health-Notifier für Webprojekte.
  
 ## Features
- Prüft ob dein Webprojekt erreichbar ist und keine Fehlerseite anzeigt. 
+ Prüft, ob dein Webprojekt erreichbar ist und keine Fehlerseite anzeigt. 
  
  ## Schwierigkeit
  Einfach

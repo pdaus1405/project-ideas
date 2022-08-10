@@ -3,7 +3,7 @@
 Baue ein Idle Game mit Hanfanbau. 
  
 ## Features
- Dieser wird dann verkauft um weitere Farmen zu erhalten um den Hanfanbau zu erhöhen.
+ Dieser wird dann verkauft, um weitere Farmen zu erhalten, um den Hanfanbau zu erhöhen.
  
  ## Schwierigkeit
  Mittel

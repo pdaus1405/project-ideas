@@ -1,6 +1,6 @@
 # Trash Pinboard
  
-Baue dir eine Webseite, auf der du jedigliche Notizen erstellen kannst, die nach einem Zeitpunkt X wieder verschwinden.
+Baue dir eine Webseite, auf der du jegliche Notizen erstellen kannst, die nach einem Zeitpunkt X wieder verschwinden.
  
 ## Features
 

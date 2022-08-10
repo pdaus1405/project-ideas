@@ -1,4 +1,4 @@
-# Consumptiondata Dashboard
+# Consumption Dashboard
  
 Baue ein Dashboard in dem man Stromverbrauch und andere Dinge für die Wohnung / Haus eintragen kann.
  
