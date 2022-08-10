@@ -22,7 +22,7 @@ Gerne könnt ihr selber Ideen per Pull Request einreichen.
 - [Bigger Smaller Game](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Games/Bigger_Smaller_Game.md)
 - [Farmer Game](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Games/Farmer_Game.md)
 - [Game of Life Fork Simulator](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Games/GoL_Fork_Simulator.md)
-- [Idle Fishing Game](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Games/idle_fisher.md)
+- [Idle Fishing Game](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Games/Idle_Fisher.md)
 - [Idle Hanf Game](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Games/Idle_Hanf_Game.md)
 - [Level Game](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Games/Level_Game.md)
 - [Online Quiz Game](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Games/Online_Quiz_Game.md)
