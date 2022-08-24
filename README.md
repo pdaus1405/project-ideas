@@ -20,6 +20,7 @@ Gerne könnt ihr selber Ideen per Pull Request einreichen.
 
 ## Spiele
 - [Bigger Smaller Game](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Games/Bigger_Smaller_Game.md)
+- [Clicker Game](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Games/Clicker_Game.md)
 - [Farmer Game](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Games/Farmer_Game.md)
 - [Game of Life Fork Simulator](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Games/GoL_Fork_Simulator.md)
 - [Idle Fishing Game](https://github.com/pdaus1405/project-ideas/blob/main/ideas/Games/Idle_Fisher.md)
