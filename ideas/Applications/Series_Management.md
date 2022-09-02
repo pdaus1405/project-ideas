@@ -18,4 +18,10 @@ Allgemeine Grundlagen
 4. API Anbindung
 
 ## Beispiel-Code
-[Beispiel-Code für Series Management für unterschiedliche Skillbereiche](https://github.com/Series-Management)
+--- [Repository](https://github.com/Series-Management) ---
+- [Skill-Bereich Niedrig](https://github.com/Series-Management/Level-Range-Low)
+- [Skill-Bereich Mittel](https://github.com/Series-Management/Level-Range-Mid)
+- [Skill-Bereich Mittel bis Hoch](https://github.com/Series-Management/Level-Range-Mid-High)
+- [Skill-Bereich Hoch](https://github.com/Series-Management/Level-Range-High)
+
+*) Eine Beteiligung ist ausdrücklich erwünscht
