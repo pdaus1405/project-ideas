@@ -16,3 +16,6 @@ Allgemeine Grundlagen
 2. OOP
 3. Nutzung von Frameworks
 4. API Anbindung
+
+## Beispiel-Code
+[Beispiel-Code für Series Management für unterschiedliche Skillbereiche](https://github.com/Series-Management)
